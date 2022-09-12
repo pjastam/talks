@@ -1,0 +1,50 @@
+project:
+  type: website
+
+website:
+  title: "Piet Stam"
+  favicon: "favicon.png"
+  site-url: "https://talks.pietstam.nl"
+
+  twitter-card:
+    card-style: summary
+    creator: "@pjastam"
+    site: "@pjastam"
+  open-graph: true
+
+  navbar:
+    pinned: true
+    right:
+      - text: Blog
+        href: "https://www.pietstam.nl/posts.html"
+      - text: Publications
+        href: "https://www.pietstam.nl/publications.html"
+      - text: Talks
+        href: index.qmd
+      - icon: twitter
+        href: https://twitter.com/pjastam
+      - icon: github
+        href: https://github.com/pjastam
+      - icon: rss
+        href: "https://www.pietstam.nl/posts.xml"
+
+  page-footer:
+    left: |
+      Copyright (c) 2022 [Piet Stam](https://www.pietstam.nl). Except where otherwise noted, content on this site is licensed under a <br>
+      {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license](https://creativecommons.org/licenses/by-sa/4.0/)
+    right: |
+      Written in [{{< fa brands r-project >}}](https://www.r-project.org/) and rendered with [Quarto](https://quarto.org/) <br>
+      Published with [GitHub Actions](https://github.com/features/actions) at [{{< iconify bxl netlify >}} Netlify](https://netlify.com/) <br>
+      View the source code at [{{< fa brands github >}} GitHub](https://github.com/talks)
+
+format:
+  html:
+    theme:
+      light: sketchy
+      dark: slate
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: ^(?:http:|https:)\/\/talks\.pietstam\.nl\/custom
+
+execute:
+  freeze: auto

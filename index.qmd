@@ -1,0 +1,15 @@
+---
+title: "My talks"
+
+listing:
+  contents: "/*/index.qmd"
+  feed: true
+  type: grid
+  sort: "date desc"
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+---
+
+This page contains contains additional material and links for my talks. Just click on a card below to get the content for the talk of your interest.
