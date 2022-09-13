@@ -16,9 +16,9 @@ website:
     pinned: true
     right:
       - text: Blog
-        href: "https://www.pietstam.nl/posts.html"
+        href: https://www.pietstam.nl/posts.html
       - text: Publications
-        href: "https://www.pietstam.nl/publications.html"
+        href: https://www.pietstam.nl/publications.html
       - text: Talks
         href: index.qmd
       - icon: twitter
@@ -26,7 +26,7 @@ website:
       - icon: github
         href: https://github.com/pjastam
       - icon: rss
-        href: "https://www.pietstam.nl/posts.xml"
+        href: https://www.pietstam.nl/posts.xml
 
   page-footer:
     left: |
