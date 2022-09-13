@@ -12,4 +12,4 @@ listing:
 page-layout: full
 ---
 
-This page contains contains additional material and links for my talks. Just click on a card below to get the content for the talk of your interest.
+This page is a portal to references and additional material for my talks. Just click on a card below to get the content for the talk of your interest.
