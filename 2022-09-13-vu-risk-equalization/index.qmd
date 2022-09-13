@@ -16,28 +16,34 @@ toc: true
 bibliography: references.bib
 ---
 
-## Introduction
-
-The goal of risk equalization was explicitly described in detail in the Dutch Health Insurance Act (2006) about [here](https://zoek.officielebekendmakingen.nl/stb-2005-389.html#IDA5LXXB). It is interesting to read and may differ slightly from how it was described in my talk.
-
-Surprisingly, despite a long history of developing a very sophisticated risk equalization model, currently there is much discussion about the goal of risk equalization in the Netherlands. We summarize this debate in @van_de_ven_goal_2022 and propose a way out of this controversy.
-
-Furthermore note that some people have high expectations about solving economic problems in health insurance and health care by risk equalization. To put these expectations into context, @stam_risicoverevening_2015 wrote that risk equalization is not a panacea.
-
-All in all, given these debates, it is important to get a better understanding of risk equalization in order to be able to judge what's right and what's wrong. 
-
 ## Slides
 
 The slides of the lecture are not included here, they are on the blackboard of your university.
 
-## Resources
+## Flow chart
 
-In this talk, we ended the section on the goal of risk equalization with a flow diagram connecting competition -> regulation -> incentives -> behavior -> effects. You can watch an interactive summary of the goal of risk equalizartion in 6 slides in [English](https://pst.am/goal-risk-equalization/) or [in Dutch](https://pst.am/doel-risicoverevening).
+In this talk, we ended the section on the goal of risk equalization with a flow diagram connecting competition -> regulation -> incentives -> behavior -> effects. You can watch an interactive version of this flow chart in 6 slides [in English](https://pst.am/goal-risk-equalization/) or [in Dutch](https://pst.am/doel-risicoverevening).
+
+After a first watch, try to tell the story behind these slides in your own words. It is a good test and will help you to spot the parts that you might not fully understand yet. You may then read your slides to help you fill in the blanks. 
 
 ## Risk equalization app
 
 You can find the risk equalization app [here](http://www.risicoverevening.nl). Just play around to get the hang of it.
 
+## Food for thought
+
+The goal of risk equalization was explicitly described in detail in the Dutch Health Insurance Act (2006) about [here](https://zoek.officielebekendmakingen.nl/stb-2005-389.html#IDA5LXXB). It is interesting to read and may slightly differ from how it was described in my talk.
+
+Surprisingly, despite a long history of developing a very sophisticated risk equalization model, currently there is much discussion about the goal of risk equalization in the Netherlands. I co-authored an article with a summary of this debate in which we also propose a way out of this controversy.[^1]
+
+[^1]: See @van_de_ven_goal_2022
+
+Furthermore, note that some people have high expectations about solving economic problems in health insurance and health care by risk equalization. To put these expectations into context, I authored an article (in Dutch) claiming that risk equalization is not a panacea.[^2]
+
+[^2]: See @stam_risicoverevening_2015, download the public version from my Zotero page [here](https://api.zotero.org/users/24775/publications/items/FFBBU6VS/file/view)
+
+All in all, given these debates, it is important to get a better understanding of risk equalization in order to be able to judge what's right and what's wrong. 
+
 ## Last remarks
 
-These were the first few references that are nice to read/view. They already give you much to think about. Just contact me if you want to know more.
+These were the first few references that are nice to read/view. They already give you much to think about. Just send me a DM on [{{< fa brands twitter >}} Twitter](https://twitter.com/pjastam) if you want to know more.
