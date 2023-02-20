@@ -17,10 +17,12 @@ website:
     right:
       - text: Blog
         href: https://www.pietstam.nl/posts.html
-      - text: Publications
+      - text: Pubs
         href: https://www.pietstam.nl/publications.html
       - text: Talks
         href: index.qmd
+      - text: Favs
+        href: https://www.pietstam.nl/favorites.html
       - icon: twitter
         href: https://twitter.com/pjastam
       - icon: github
