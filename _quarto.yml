@@ -14,6 +14,9 @@ website:
 
   navbar:
     pinned: true
+    left: 
+      - icon: mastodon
+        href: https://mastodon.nl/@pjastam
     right:
       - text: Blog
         href: https://www.pietstam.nl/posts.html
@@ -23,10 +26,6 @@ website:
         href: index.qmd
       - text: Favs
         href: https://www.pietstam.nl/favorites.html
-      - icon: twitter
-        href: https://twitter.com/pjastam
-      - icon: github
-        href: https://github.com/pjastam
       - icon: rss
         href: https://www.pietstam.nl/posts.xml
 
