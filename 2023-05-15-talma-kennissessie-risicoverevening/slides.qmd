@@ -121,9 +121,9 @@ Hoe we die effecten in maat en getal moeten uitdrukken is nog work in progress.
 
 ::: {.column width="60%"}
 -   Consensus over doel 1: we moeten prikkels voor deze selectieacties tegengaan
--   In 2023 een bandbreedteregeling, maar in 2024?
+-   In 2023 m.b.v. een bandbreedte- regeling, met [positieve effecten]{.underline} op de doelmatigheid
 
-→ Zonder geschikte oplossing in 2024, vervallen [positieve effecten]{.underline} van de bandbreedteregeling
+→ Welke oplossing voor dit aanhoudende probleem in 2024?
 :::
 :::
 
@@ -139,7 +139,7 @@ Hoe we die effecten in maat en getal moeten uitdrukken is nog work in progress.
 -   Gevalsnormering van gezondheidsverandering
 -   Meerjarige polissen & overstapperiode
 
-→ Kwantificeer naast de [negatieve effecten]{.underline} van kenmerken op passende zorg, ook de [positieve effecten]{.underline} van risicoverevening op doelmatigheid
+→ Kwantificeer naast de [negatieve effecten]{.underline} van kenmerken voor JZOJP, ook de [positieve effecten]{.underline} van oplossingen voor  selectieacties
 :::
 :::
 
