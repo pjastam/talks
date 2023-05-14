@@ -1,0 +1,32 @@
+---
+title: "Talma kennissessie risicoverevening en prikkels"
+description: |
+  Economics of the Dutch health care system<br>Minor Health Care Management<br>VU University Amsterdam
+author:
+  - name: Piet Stam, PhD
+    affiliations:
+    - Equalis Strategy & Modeling
+    - VU University Amsterdam
+date: "2023-05-15"
+categories: [risk equalization]
+reference-location: margin
+#sidebar: false
+toc: true
+#page-layout: full
+#bibliography: references.bib
+---
+
+## Slides
+
+Hier komt een link naar de slides.
+
+## Crash course risicoverevening
+
+In this talk, we ended the section on the goal of risk equalization with a flow diagram connecting competition -> regulation -> incentives -> behavior -> effects. You can watch an interactive version of this flow chart in 6 slides [in English](https://pst.am/goal-risk-equalization/) or [in Dutch](https://pst.am/doel-risicoverevening).
+
+## Risk equalization app
+
+You can find the risk equalization app [here](http://www.risicoverevening.nl). Just play around to get the hang of it.
+
+## Referenties
+

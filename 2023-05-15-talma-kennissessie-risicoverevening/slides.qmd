@@ -1,0 +1,167 @@
+---
+title: "Kennissessie risicoverevening & ~~prikkels~~ effecten"
+subtitle: "VU / Talma Instituut, 15 mei 2023"
+author: "Piet Stam"
+format: 
+  revealjs:
+    theme: dark
+    transition: slide
+    reference-location: document
+    mainfont: Calibri
+editor: visual
+---
+
+------------------------------------------------------------------------
+
+```{=html}
+<iframe width="100%" height="100%" src="https://pst.am/doel-risicoverevening"></iframe>
+```
+::: footer
+Crash course risicoverevening: [pst.am/doel-risicoverevening](https://pst.am/doel-risicoverevening)
+:::
+
+------------------------------------------------------------------------
+
+## Equalis rapport: geen consensus in WOR over doelmatigheid als doel
+
+::: columns
+::: {.column width="40%"}
+[![](img/q-rapport-2021.png){fig-alt="Voorpagina van Equalis rapport" width="100%" height="100%"}](https://www.rijksoverheid.nl/documenten/rapporten/2021/05/20/doelen-en-uitgangspunten-van-de-risicoverevening)
+:::
+
+::: {.column width="60%"}
+-   Doel 1: tegengaan prikkels tot risicoselectie
+-   Doel 2: bevorderen van doelmatigheid
+:::
+:::
+
+::: notes
+Ook geen consensus in Risk Adjustment Network!
+:::
+
+## WOR Toetsingskader (WOR 1130)
+
+::: columns
+::: {.column width="40%"}
+![](img/wor-1130-toetsingskader.png){fig-alt="Eerste pagina van WOR Toetsingkader" width="100%" height="100%"}
+:::
+
+::: {.column width="60%"}
+1.  Verevenende werking (doel 1)
+    -   incl. reductie selectieprikkels
+2.  Doelmatigheidsprikkels (doel 2)
+    -   aspect 1: prijsbeheersing
+    -   aspect 2: volumebeheersing
+    -   aspect 3: JZOJP
+3.  Beheersbare complexiteit
+4.  Validiteit en meetbaarheid
+:::
+:::
+
+::: notes
+Citaten WOR Toetsingskader: <BR> - "Risicoverevening mag geen (onacceptabele) afbreuk doen aan prikkels voor ... 2.1, 2.2 en 2.3" <BR> - Dat betekent dat men voorzichtig is met kenmerken gebaseerd op zorgkosten/-gebruik, want daarvan is het gevaar dat ondoelmatig handelen worden beloond (aspect 1 en 2) en doelmatig handelen worden afgestraft (aspect 3)
+:::
+
+## ESB artikel: er zijn ook positieve effecten op doelmatigheid
+
+::: columns
+::: {.column width="40%"}
+[![](img/esb-vandeven-2022.png){fig-alt="Eerste pagina van ESB-artikel" width="100%" height="100%"}](https://esb.nu/esb/20072199/de-wetgever-moet-het-doel-van-de-risicoverevening-vaststellen)
+:::
+
+::: {.column width="60%"}
+-   In de praktijk wordt dus alleen met de [negatieve effecten]{.underline} rekening gehouden
+-   Risicoverevening kan echter [zowel positieve als negatieve effecten]{.underline} hebben op doelmatigheid
+-   De [positieve effecten]{.underline} kunnen zwaarder wegen dan de negatieve effecten
+:::
+:::
+
+:::
+
+## EsCHER working paper: 5 negatieve en 14 positieve potentiële effecten
+
+::: columns
+::: {.column width="40%"}
+[![](img/escher-report-2022.png){fig-alt="Voorpagina van EsCHER-rapport" width="100%" height="100%"}](https://www.eur.nl/en/media/2022-11-2022014-kleef-et-al)
+:::
+
+::: {.column width="60%"}
+-   [Negatieve effecten]{.underline}: *minder doelmatigheid* door kenmerken gebaseerd op zorgkosten/-gebruik
+-   [Positieve effecten]{.underline}: *meer doelmatigheid* (als marktuitkomst) door minder selectieprikkels & gelijker speelveld
+
+→ Voeg [positieve effecten]{.underline} toe aan WOR Toetsingskader
+:::
+:::
+
+::: notes
+Hoe we die effecten in maat en getal moeten uitdrukken is nog work in progress.
+:::
+
+## Zorginstituut: Advies passende zorg en risicoverevening
+
+::: columns
+::: {.column width="40%"}
+[![](img/zin-rve-passende-zorg-2022.png){fig-alt="Voorpagina van rapport Zorginstituut" width="100%" height="100%"}](https://www.zorginstituutnederland.nl/publicaties/adviezen/2022/08/16/advies-passende-zorg-en-risicoverevening)
+:::
+
+::: {.column width="60%"}
+-   Baseer de vereveningsbijdrage mede op zorggebruik van langer geleden
+-   Stel de aandoening meer centraal in het risicovereveningsmodel
+
+→ Het opvolgen van dit advies vermindert de [negatieve effecten]{.underline}
+:::
+:::
+
+## Korte termijn probleem: selectie-<BR>acties van verzekerden & verzekeraars
+
+::: columns
+::: {.column width="40%"}
+[![](img/wor-1074-hamstra-incl-grafiek.png){fig-alt="Voorpagina van rapport Equalis" width="100%" height="100%"}](https://www.rijksoverheid.nl/documenten/rapporten/2022/01/26/restrisicos-2-vereveningsresultaat-van-verzekeraars-en-polissen)
+:::
+
+::: {.column width="60%"}
+-   Consensus over doel 1: we moeten prikkels voor deze selectieacties tegengaan
+-   In 2023 een bandbreedteregeling, maar in 2024?
+
+→ Zonder geschikte oplossing in 2024, vervallen [positieve effecten]{.underline} van de bandbreedteregeling
+:::
+:::
+
+## Out of the box oplossingen
+
+::: columns
+::: {.column width="40%"}
+[![](img/esb-stam-2015.png){fig-alt="Eerste pagina van ESB-artikel" width="100%" height="100%"}](https://esb.nu/esb/20012996/risicoverevening-is-geen-panacee)
+:::
+
+::: {.column width="60%"}
+-   Constrained regression?
+-   Gevalsnormering van gezondheidsverandering
+-   Meerjarige polissen & overstapperiode
+
+→ Kwantificeer naast de [negatieve effecten]{.underline} van kenmerken op passende zorg, ook de [positieve effecten]{.underline} van risicoverevening op doelmatigheid
+:::
+:::
+
+::: notes
+-   Gevalsnormering sluit niet aan op voorstel van ZIN om kenmerk van langer geleden te hanteren. <BR>
+-   Meerjarige polissen sluit wel aan en die oplossing heeft nog meer voordelen: <BR>
+-   ↓ informatievoorsprong & zelfselectie <BR>
+-   ↓ winstgevendheid eenjarige polissen <BR>
+-   ↑ ruimte voor meerjarige zorgafspraken <BR>
+-   ↑ rust in proces risicoverevening
+:::
+
+------------------------------------------------------------------------
+
+::: {style="text-align: center; position: relative; top: 30%"}
+<https://pietstam.nl/talks>
+:::
+
+::: footer
+De inhoud van deze slides is beschikbaar onder de [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](https://creativecommons.org/licenses/by-sa/4.0/) licentie.
+
+De broncode voor het genereren van deze slides is beschikbaar op [GitHub](https://github.com/pjastam/talks) onder de [MIT licentie](https://github.com/pjastam/blog-quarto/blob/main/LICENSE.md).
+
+Copyright (c) 2023 [Piet Stam](https://www.pietstam.nl).
+:::
