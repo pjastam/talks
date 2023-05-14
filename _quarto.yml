@@ -23,7 +23,7 @@ website:
       - text: Pubs
         href: https://www.pietstam.nl/publications.html
       - text: Talks
-        href: index.qmd
+        href: https://www.pietstam.nl/talks.html
       - text: Favs
         href: https://www.pietstam.nl/favorites.html
       - icon: rss
