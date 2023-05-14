@@ -1,12 +1,13 @@
 ---
 title: "Talma kennissessie risicoverevening en prikkels"
+lang: nl
 description: |
-  Economics of the Dutch health care system<br>Minor Health Care Management<br>VU University Amsterdam
+  Talma Instituut<br>Vrije Universiteit Amsterdam
 author:
   - name: Piet Stam, PhD
     affiliations:
     - Equalis Strategy & Modeling
-    - VU University Amsterdam
+    - Vrije Universiteit Amsterdam
 date: "2023-05-15"
 categories: [risk equalization]
 reference-location: margin
@@ -18,15 +19,26 @@ toc: true
 
 ## Slides
 
-Hier komt een link naar de slides.
+```{=html}
+<p><a class="btn btn-info btn-lg" target="_blank" href="slides.html"><i class="fas fa-external-link-alt"></i> Bekijk alle slides in een nieuw venster</a></p>
+```
+
+Bekijk het [Quarto bronbestand voor het genereren van de slides op GitHub](https://github.com/pjastam/talks/tree/main/2023-05-15-talma-kennissessie-risicoverevening).
 
 ## Crash course risicoverevening
 
-In this talk, we ended the section on the goal of risk equalization with a flow diagram connecting competition -> regulation -> incentives -> behavior -> effects. You can watch an interactive version of this flow chart in 6 slides [in English](https://pst.am/goal-risk-equalization/) or [in Dutch](https://pst.am/doel-risicoverevening).
+In de korte inleiding in de risicoverevening wordt een verbinding gemaakt tussen concurrentie --\> regulering --\> prikkels --\> gedrag --\> effecten. Je kunt de interactieve versie hiervan vinden op <https://pst.am/doel-risicoverevening>.
 
-## Risk equalization app
+## Risicovereveningsapp
 
-You can find the risk equalization app [here](http://www.risicoverevening.nl). Just play around to get the hang of it.
+Je kunt de risicovereveningsapp vinden op <http://www.risicoverevening.nl>. Vul waarden voor de kenmerken in en kijk hoe de totale vereveningsbijdrage daardoor wijzigt.
 
 ## Referenties
 
+-   Stam et al. (2021). Doelen en uitgangspunten van de risicoverevening: Een eerste stap naar consensus met de begeleidingscommissie (WOR 1019). Equalis.
+-   Van de Ven et al. (2022). De wetgever moet het doel van de risicoverevening vaststellen. ESB, 108(4818), 82-85.
+-   WOR Toetsingskader 2022 (WOR 1130). Ministerie van VWS, cluster risicoverevening, november 2022
+-   Van Kleef et al. (2022). Positive and negative effects of risk equalization and risk sharing in regulated competitive health insurance markets. EsCHER Working Paper Series, No. 2022014.
+-   https://www.zorginstituutnederland.nl/publicaties/adviezen/2022/08/16/advies-passende-zorg-en-risicoverevening
+-   https://www.rijksoverheid.nl/documenten/rapporten/2022/01/26/restrisicos-2-vereveningsresultaat-van-verzekeraars-en-polissen
+-   Stam et al. (2015). Risicoverevening is geen panacee.
