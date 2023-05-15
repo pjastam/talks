@@ -54,7 +54,7 @@ Ook geen consensus in Risk Adjustment Network!
 3.  Beheersbare complexiteit
 4.  Validiteit en meetbaarheid
 
-→ Voorkom [negatieve effecten]{.underline}: afname kostenbeheersing en preventie
+→ Voorkom [negatieve effecten]{.underline}, i.e. afname kostenbeheersing en preventie
 :::
 :::
 
