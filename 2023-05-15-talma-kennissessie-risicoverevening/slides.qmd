@@ -22,7 +22,7 @@ Crash course risicoverevening: [pst.am/doel-risicoverevening](https://pst.am/doe
 
 ------------------------------------------------------------------------
 
-## Equalis rapport: geen consensus in WOR over doelmatigheid als doel
+## Equalis rapport: consensus over doel 1, niet over doel 2
 
 ::: columns
 ::: {.column width="40%"}
@@ -50,11 +50,11 @@ Ook geen consensus in Risk Adjustment Network!
 1.  Verevenende werking (doel 1)
     -   incl. reductie selectieprikkels
 2.  Doelmatigheidsprikkels (doel 2)
-    -   aspect 1: prijsbeheersing
-    -   aspect 2: volumebeheersing
-    -   aspect 3: JZOJP
+    -   prijs- & volumebeheersing, JZOJP
 3.  Beheersbare complexiteit
 4.  Validiteit en meetbaarheid
+
+→ Voorkom [negatieve effecten]{.underline}: afname kostenbeheersing en preventie
 :::
 :::
 
@@ -62,7 +62,7 @@ Ook geen consensus in Risk Adjustment Network!
 Citaten WOR Toetsingskader: <BR> - "Risicoverevening mag geen (onacceptabele) afbreuk doen aan prikkels voor ... 2.1, 2.2 en 2.3" <BR> - Dat betekent dat men voorzichtig is met kenmerken gebaseerd op zorgkosten/-gebruik, want daarvan is het gevaar dat ondoelmatig handelen worden beloond (aspect 1 en 2) en doelmatig handelen worden afgestraft (aspect 3)
 :::
 
-## ESB artikel: er zijn ook positieve effecten op doelmatigheid
+## ESB artikel: er zijn niet alleen negatieve effecten op doelmatigheid
 
 ::: columns
 ::: {.column width="40%"}
@@ -121,7 +121,7 @@ Hoe we die effecten in maat en getal moeten uitdrukken is nog work in progress.
 
 ::: {.column width="60%"}
 -   Consensus over doel 1: we moeten prikkels voor deze selectieacties tegengaan
--   In 2023 m.b.v. een bandbreedte- regeling, met [positieve effecten]{.underline} op de doelmatigheid
+-   In 2023 m.b.v. een ex post bandbreedteregeling, met [positieve effecten]{.underline} op de doelmatigheid
 
 → Welke oplossing voor dit aanhoudende probleem in 2024?
 :::
@@ -139,7 +139,7 @@ Hoe we die effecten in maat en getal moeten uitdrukken is nog work in progress.
 -   Gevalsnormering van gezondheidsverandering
 -   Meerjarige polissen & overstapperiode
 
-→ Kwantificeer naast de [negatieve effecten]{.underline} van kenmerken voor JZOJP, ook de [positieve effecten]{.underline} van oplossingen voor  selectieacties
+→ Weeg in het WOR Toetsingskader de [negatieve effecten]{.underline} af tegen de [positieve effecten]{.underline} (van oplossingen voor de selectieacties)
 :::
 :::
 
