@@ -14,7 +14,7 @@ reference-location: margin
 #sidebar: false
 toc: true
 #page-layout: full
-#bibliography: references.bib
+bibliography: references.bib
 ---
 
 ## Slides
@@ -27,18 +27,20 @@ Bekijk het [Quarto bronbestand voor het genereren van de slides op GitHub](https
 
 ## Crash course risicoverevening
 
-In de korte inleiding in de risicoverevening wordt een verbinding gemaakt tussen concurrentie --\> regulering --\> prikkels --\> gedrag --\> effecten. Je kunt de interactieve versie hiervan vinden op <https://pst.am/doel-risicoverevening>.
+In de korte inleiding in de risicoverevening wordt een verbinding gemaakt tussen concurrentie --\> regulering --\> prikkels --\> gedrag --\> effecten. Je kunt de interactieve versie hiervan vinden op [https://pst.am/doel-risicoverevening](https://pst.am/doel-risicoverevening).
 
 ## Risicovereveningsapp
 
 Je kunt de risicovereveningsapp vinden op <http://www.risicoverevening.nl>. Vul waarden voor de kenmerken in en kijk hoe de totale vereveningsbijdrage daardoor wijzigt.
 
-## Referenties
+## Publicaties
 
--   Stam et al. (2021). Doelen en uitgangspunten van de risicoverevening: Een eerste stap naar consensus met de begeleidingscommissie (WOR 1019). Equalis.
--   Van de Ven et al. (2022). De wetgever moet het doel van de risicoverevening vaststellen. ESB, 108(4818), 82-85.
--   WOR Toetsingskader 2022 (WOR 1130). Ministerie van VWS, cluster risicoverevening, november 2022
--   Van Kleef et al. (2022). Positive and negative effects of risk equalization and risk sharing in regulated competitive health insurance markets. EsCHER Working Paper Series, No. 2022014.
--   https://www.zorginstituutnederland.nl/publicaties/adviezen/2022/08/16/advies-passende-zorg-en-risicoverevening
--   https://www.rijksoverheid.nl/documenten/rapporten/2022/01/26/restrisicos-2-vereveningsresultaat-van-verzekeraars-en-polissen
--   Stam et al. (2015). Risicoverevening is geen panacee.
+Er worden diverse publicaties in deze presentatie aangehaald:
+
+- slide 3, Equalis rapport: @stamDoelenUitgangspuntenVan2021
+- slide 4, WOR Toetsingskader (WOR 1130): @Toetsingskader2022WOR2022
+- slide 5, ESB artikel: @vandevenWetgeverMoetHet2022
+- slide 6, EsCHER working paper: @vankleefPositiveNegativeEffects2022
+- slide 7, Zorginstituut: @gommansRisicovereveningPassendeZorg2022
+- slide 8, Korte termijn probleem: @hamstraRestrisicoVereveningsresultaatVan2022
+- slide 9, Out of the box oplossingen: @stamRisicovereveningGeenPanacee2015
