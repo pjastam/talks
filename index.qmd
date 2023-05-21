@@ -6,7 +6,7 @@ listing:
 #  feed: true
 #  type: grid
   contents:
-  - https://www.pietstam.nl/talks/talks.yml
+  - https://github.com/pjastam/blog-quarto/blob/f2142127795f22316075c8c689747a11a2004c94/talks/talks.yml
   fields: [title, date, description, location]
   field-display-names:
     location: "Location"
