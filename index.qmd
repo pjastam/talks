@@ -19,18 +19,4 @@ listing:
 page-layout: full
 ---
 
-This page is a portal to references and additional material for my talks. Just click on a card below to get the content for the talk of your interest.
-
-
-
----
-title: "My talks"
-listing:
-  contents:
-  - talks/talks.yml
-  fields: [title, date, description, location]
-  field-display-names:
-    location: "Location"
----
-
 This page is the portal to my talks. In the description column you find icons associated with course materials or the GitHub repository. If there is a talk that interests you, just click on these icons to find out whether there is something that suits you. If you have any suggestions, please contribute! Note the copyright and license statement in the footer of this page.
