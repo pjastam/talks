@@ -2,16 +2,12 @@
 title: "My talks"
 
 listing:
-#  contents: "/*/index.qmd"
-#  feed: true
-#  type: grid
-  contents:
-  - https://github.com/pjastam/blog-quarto/blob/f2142127795f22316075c8c689747a11a2004c94/talks/talks.yml
+  contents: "/*/index.qmd"
+  feed: true
   fields: [title, date, description, location]
   field-display-names:
     location: "Location"
   type: table
-# NO CHANGES:  
   sort: "date desc"
   categories: false
   sort-ui: false
