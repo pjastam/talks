@@ -1,0 +1,14 @@
+{
+  "hash": "56b4dc1809fd239b249fdbeed50e6f36",
+  "result": {
+    "markdown": "---\ntitle: \"Talma kennissessie risicoverevening en prikkels\"\nlang: nl\ndescription: |\n  Talma Instituut<br>Vrije Universiteit Amsterdam\nauthor:\n  - name: Piet Stam, PhD\n    affiliations:\n    - Equalis Strategy & Modeling\n    - Vrije Universiteit Amsterdam\ndate: \"2023-05-15\"\ncategories: [risk equalization]\nreference-location: margin\n#sidebar: false\ntoc: true\n#page-layout: full\nbibliography: \"E:/OneDrive/Dev/Quarto/talks/2023-05-15-talma-kennissessie-risicoverevening/references.bib\"\n---\n\n\n## Slides\n\n\n```{=html}\n<p><a class=\"btn btn-info btn-lg\" target=\"_blank\" href=\"slides.html\"><i class=\"fas fa-external-link-alt\"></i> Bekijk alle slides in een nieuw venster</a></p>\n```\n\n\nBekijk het [Quarto bronbestand voor het genereren van de slides op GitHub](https://github.com/pjastam/talks/tree/main/2023-05-15-talma-kennissessie-risicoverevening).\n\n## Crash course risicoverevening\n\nIn de korte inleiding in de risicoverevening wordt een verbinding gemaakt tussen concurrentie --\\> regulering --\\> prikkels --\\> gedrag --\\> effecten. Je kunt de interactieve versie hiervan vinden op <https://pst.am/doel-risicoverevening>.\n\n## Risicovereveningsapp\n\nJe kunt de risicovereveningsapp vinden op <http://www.risicoverevening.nl>. Vul waarden voor de kenmerken in en kijk hoe de totale vereveningsbijdrage daardoor wijzigt.\n\n## Publicaties\n\nOp diverse slides in deze presentatie wordt een publicatie aangehaald. Dit zijn de publicaties:\n\n- slide 3, Equalis rapport: @stamDoelenUitgangspuntenVan2021\n- slide 4, WOR Toetsingskader (WOR 1130): @Toetsingskader2022WOR2022\n- slide 5, ESB artikel: @vandevenWetgeverMoetHet2022\n- slide 6, EsCHER working paper: @vankleefPositiveNegativeEffects2022\n- slide 7, Zorginstituut: @gommansRisicovereveningPassendeZorg2022\n- slide 8, Korte termijn probleem: @hamstraRestrisicoVereveningsresultaatVan2022\n- slide 9, Out of the box oplossingen: @stamRisicovereveningGeenPanacee2015\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
