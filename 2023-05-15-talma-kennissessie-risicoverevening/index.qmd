@@ -23,7 +23,7 @@ bibliography: references.bib
 <p><a class="btn btn-info btn-lg" target="_blank" href="slides.html"><i class="fas fa-external-link-alt"></i> Bekijk alle slides in een nieuw venster</a></p>
 ```
 
-Bekijk het [Quarto bronbestand voor het genereren van de slides op GitHub](https://github.com/pjastam/talks/tree/main/2023-05-15-talma-kennissessie-risicoverevening).
+Bekijk het [Quarto bronbestand op GitHub](https://github.com/pjastam/talks/tree/main/2023-05-15-talma-kennissessie-risicoverevening) voor het genereren van de slides.
 
 ## Crash course risicoverevening
 
@@ -31,7 +31,7 @@ In de korte inleiding in de risicoverevening wordt een verbinding gemaakt tussen
 
 ## Risicovereveningsapp
 
-Je kunt de risicovereveningsapp vinden op <http://www.risicoverevening.nl>. Vul waarden voor de kenmerken in en kijk hoe de totale vereveningsbijdrage daardoor wijzigt.
+Je kunt de risicovereveningsapp vinden op [http://www.risicoverevening.nl](http://www.risicoverevening.nl). Vul waarden voor de kenmerken in en kijk hoe de totale vereveningsbijdrage daardoor wijzigt.
 
 ## Publicaties
 
