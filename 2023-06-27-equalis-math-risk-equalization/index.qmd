@@ -1,0 +1,41 @@
+---
+title: "Workshop on the math of risk equalization"
+lang: en
+description: |
+  Equalis/Vintura
+author:
+  - name: Piet Stam, PhD
+    affiliations:
+    - Equalis/Vintura
+    - Vrije Universiteit Amsterdam
+date: "2023-06-27"
+categories: [risk equalization]
+reference-location: margin
+#sidebar: false
+toc: true
+#page-layout: full
+---
+
+## Slides
+
+```{=html}
+<p><a class="btn btn-info btn-lg" target="_blank" href="slides.html"><i class="fas fa-external-link-alt"></i> Bekijk alle slides in een nieuw venster</a></p>
+```
+
+Bekijk het [Quarto bronbestand op GitHub](https://github.com/pjastam/talks/tree/main/2023-06-27-equalis-math-risk-equalization) voor het genereren van de slides.
+
+## The workshop
+
+In this workshop an introduction is given to the major mathematical issues with risk equalization modeling. We look at it from a theoretical perspective, and do some coding exercises to deeping our understanding.
+
+## The data
+
+We use the data of the `rvedata` package. More specifically, we use the example data frame `rvedata::example_phd_data`. The GitHub site can be found at:
+
+- [https://github.com/risicoverevening/rvedata](https://github.com/risicoverevening/rvedata)
+
+
+## Requirements
+
+- RStudio
+- Package `devtools` already installed
