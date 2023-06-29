@@ -9,6 +9,9 @@ website:
   comments:
     giscus: 
       repo: pjastam/talks
+      category: Talks comments
+      category-id: DIC_kwDOH-lqDc4CXjcu
+      mapping: pathname
     
   twitter-card:
     card-style: summary
