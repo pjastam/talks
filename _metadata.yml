@@ -7,7 +7,7 @@ freeze: true
 # Enable banner style title blocks
 title-block-banner: true
 
-# Enable commenting on blog posts
+# Enable commenting on talks
 comments:
   giscus: 
-    repo: quarto-dev/quarto-docs
+    repo: pjastam/talks
