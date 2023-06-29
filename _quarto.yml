@@ -6,6 +6,10 @@ website:
   favicon: "favicon.png"
   site-url: "https://talks.pietstam.nl"
 
+  comments:
+    giscus: 
+      repo: pjastam/talks
+    
   twitter-card:
     card-style: summary
     creator: "@pjastam"
