@@ -1,4 +1,4 @@
-![Quarto publish status](https://github.com/pjastam/talks/actions/workflows/publish.yml/badge.svg) [![Netlify Status](https://api.netlify.com/api/v1/badges/4df873c2-6af9-43be-a9ee-e7dcc45a9adb/deploy-status)](https://app.netlify.com/sites/friendly-youtiao-a3e2c6/deploys)
+![Quarto publish status](https://github.com/pjastam/talks/actions/workflows/publish.yml/badge.svg)
 
 # Talks
 
