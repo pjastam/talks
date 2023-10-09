@@ -1,5 +1,6 @@
 ---
 title: "Guest lecture risk equalization"
+lang: nl
 description: |
   Economics of the Dutch health care system<br>Minor Health Care Management<br>VU University Amsterdam
 author:

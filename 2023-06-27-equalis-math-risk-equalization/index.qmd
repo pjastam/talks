@@ -22,7 +22,7 @@ toc: true
 <p><a class="btn btn-info btn-lg" target="_blank" href="slides.html"><i class="fas fa-external-link-alt"></i> Bekijk alle slides in een nieuw venster</a></p>
 ```
 
-Bekijk het [Quarto bronbestand op GitHub](https://github.com/pjastam/talks/tree/main/2023-06-27-equalis-math-risk-equalization) voor het genereren van de slides.
+Look at the [Quarto source files at GitHub](https://github.com/pjastam/talks/tree/main/2023-06-27-equalis-math-risk-equalization) for generating the slides.
 
 ## The workshop
 
