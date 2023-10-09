@@ -3,7 +3,7 @@ title: "Guest lecture risk equalization"
 description: |
   Economics of the Dutch health care system<br>Minor Health Care Management<br>VU University Amsterdam
 author:
-  - name: Piet Stam, PhD
+  - name: Piet Stam
     affiliations:
     - Equalis Strategy & Modeling
     - VU University Amsterdam
@@ -36,11 +36,11 @@ The goal of risk equalization was explicitly described in detail in the Dutch He
 
 Surprisingly, despite a long history of developing a very sophisticated risk equalization model, currently there is much discussion about the goal of risk equalization in the Netherlands. I co-authored an article with a summary of this debate in which we also propose a way out of this controversy.[^1]
 
-[^1]: See @van_de_ven_goal_2022
+[^1]: See @vandevenGoalRiskEqualization2022
 
 Furthermore, note that some people have high expectations about solving economic problems in health insurance and health care by risk equalization. To put these expectations into context, I authored an article (in Dutch) claiming that risk equalization is not a panacea.[^2]
 
-[^2]: See @stam_risicoverevening_2015, download the public version from my Zotero page [here](https://api.zotero.org/users/24775/publications/items/FFBBU6VS/file/view)
+[^2]: See @stamRisicovereveningGeenPanacee2015, download the public version from my Zotero page [here](https://api.zotero.org/users/24775/publications/items/FFBBU6VS/file/view)
 
 All in all, given these debates, it is important to get a better understanding of risk equalization in order to be able to judge what's right and what's wrong. 
 

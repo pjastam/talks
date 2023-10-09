@@ -4,7 +4,7 @@ lang: nl
 description: |
   Talma Instituut<br>Vrije Universiteit Amsterdam
 author:
-  - name: Piet Stam, PhD
+  - name: Piet Stam
     affiliations:
     - Equalis Strategy & Modeling
     - Vrije Universiteit Amsterdam

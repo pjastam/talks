@@ -4,7 +4,7 @@ lang: en
 description: |
   Equalis/Vintura
 author:
-  - name: Piet Stam, PhD
+  - name: Piet Stam
     affiliations:
     - Equalis/Vintura
     - Vrije Universiteit Amsterdam
