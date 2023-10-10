@@ -1,6 +1,6 @@
 ---
 title: "Guest lecture risk equalization"
-lang: nl
+lang: en
 description: |
   Economics of the Dutch health care system<br>Minor Health Care Management<br>VU University Amsterdam
 author:
@@ -27,7 +27,9 @@ In this talk, there was a central role for a flow diagram connecting competition
 
 After a first watch, try to tell the story behind these slides in your own words. It is a good test and will help you to spot the parts that you might not fully understand yet. You may then read slides from your blackboard to help you fill in the blanks.
 
-In [this working paper](https://api.zotero.org/users/24775/publications/items/NCLWDNKM/file/view) (submitted for publication) that I co-authored, we list negative effects that might arise because of selection. Also, we list the positive effects of implementing risk equalization and risk sharing (via the reduction of selection). Lastly, we list some negative effects of risk equalization and/or risk sharing (yes, there are some negative effects too, which I have not discussed in my talk!). Read these lists if you are looking for concrete examples.
+As examples, I mentioned three negative effects of the selection problem on efficiency and three negative effects on equity. In a working paper that I co-authored, we presented a list of all potential negative effects that might arise because of selection.[^1] In addition, we list the positive and negative effects of implementing risk equalization (yes, there are some negative effects too, which I have not discussed in my talk!).
+
+[^1]: @vankleefPositiveNegativeEffects2022
 
 ## Risk equalization app
 
@@ -35,9 +37,9 @@ You can find the risk equalization app [here](http://www.risicoverevening.nl). J
 
 ## Solutions to the selection problem
 
-In the second part of this talk, we looked at the behavior and effects of the selection problem that we identified at the Dutch health insurance market.[^1] At the end of it, I referred to an article that I wrote about this subject in the so-called VGE Bulletin, a publication of the Dutch-Flemish Association for Health Economics (VGE). This article contains a list of potential solutions worthy to investigate further. My current favorite is the latter potential solution. Noteworthy, is that this one has also been discussed in Switzerland, which is another health insurance market where a selection problem exists.
+In the last part of this talk, we looked at the behavior and effects of the selection problem that we identified at the Dutch health insurance market.[^2] At the end of it, I referred to an article that I wrote about this subject in the so-called VGE Bulletin, a publication of the Dutch-Flemish Association for Health Economics (VGE). This article contains a list of potential solutions worthy to investigate further. My current favorite is the latter potential solution. Noteworthy, is that this one has also been discussed in Switzerland, which is another health insurance market where a selection problem exists.
 
-[^1]: see @hamstraRestrisicoVereveningsresultaatVan2022
+[^2]: @hamstraRestrisicoVereveningsresultaatVan2022
 
 This article will be published about October 30rd. As soon as this is the case, I will put the reference at this site.
 
@@ -45,16 +47,16 @@ This article will be published about October 30rd. As soon as this is the case, 
 
 The goal of risk equalization was explicitly described in detail in the Dutch Health Insurance Act (2006) about [here](https://zoek.officielebekendmakingen.nl/stb-2005-389.html#IDA5LXXB). It is interesting to read and may slightly differ from how it was described in my talk.
 
-Surprisingly, despite a long history of developing a very sophisticated risk equalization model, currently there is much discussion about the goal of risk equalization in the Netherlands. I co-authored an article with a summary of this debate in which we also propose a way out of this controversy.[^2]
+Surprisingly, despite a long history of developing a very sophisticated risk equalization model, currently there is much discussion about the goal of risk equalization in the Netherlands. I co-authored an article with a summary of this debate in which we also propose a way out of this controversy.[^3]
 
-[^2]: See @vandevenGoalRiskEqualization2022
+[^3]: @vandevenGoalRiskEqualization2022
 
-Lastly, note that some people have high expectations about solving economic problems in health insurance and health care by risk equalization. To put these expectations into context, I authored an article (in Dutch) claiming that risk equalization is not a panacea.[^3]
+Lastly, note that some people have high expectations about solving economic problems in health insurance and health care by risk equalization. To put these expectations into context, I authored an article (in Dutch) claiming that risk equalization is not a panacea.[^4]
 
-[^3]: See @stamRisicovereveningGeenPanacee2015, download the public version from my Zotero page [here](https://api.zotero.org/users/24775/publications/items/FFBBU6VS/file/view)
+[^4]: @stamRisicovereveningGeenPanacee2015
 
 All in all, given these debates, it is important to get a better understanding of risk equalization in order to be able to judge what's right and what's wrong. 
 
 ## Last remarks
 
-These were the first few references that are nice to read/view. They already give you much to think about. Have a look at the contact details on the front page of [my personal website](https://twitter.com/pjastam) if you have a question and want to get in touch.
+These were the first few references that are nice to read/view. They already give you much to think about. Have a look at the contact details on the front page of [my personal website](https://www.pietstam.nl) if you have a question and want to get in touch.
