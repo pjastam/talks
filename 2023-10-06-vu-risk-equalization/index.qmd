@@ -37,11 +37,11 @@ You can find the risk equalization app [here](http://www.risicoverevening.nl). J
 
 ## Solutions to the selection problem
 
-In the last part of this talk, we looked at the behavior and effects of the selection problem that we identified at the Dutch health insurance market.[^2] At the end of it, I referred to an article that I wrote about this subject in the so-called VGE Bulletin, a publication of the Dutch-Flemish Association for Health Economics (VGE). This article contains a list of potential solutions worthy to investigate further. My current favorite is the latter potential solution. Noteworthy, is that this one has also been discussed in Switzerland, which is another health insurance market where a selection problem exists.
+In the last part of this talk, we looked at the behavior and effects of the selection problem that we identified at the Dutch health insurance market.[^2] At the end of it, I referred to an article that I wrote about this subject in the so-called VGE Bulletin, a publication of the Dutch-Flemish Association for Health Economics (VGE). This article will be published about October 30th, 2023. As soon as this is the case, I will put the reference to the publication at this site.
 
 [^2]: @hamstraRestrisicoVereveningsresultaatVan2022
 
-This article will be published about October 30rd. As soon as this is the case, I will put the reference at this site.
+This article contains a list of potential solutions worthy to investigate further. My current favorite is the latter potential solution. Noteworthy, is that this one has also been discussed in Switzerland, which is another health insurance market where a selection problem exists.
 
 ## Food for thought
 
