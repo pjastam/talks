@@ -9,6 +9,7 @@ author:
     - Equalis Strategy & Modeling
     - VU University Amsterdam
 date: "2023-10-06"
+date-modified: "2023-11-20"
 categories: [risk equalization]
 reference-location: margin
 #sidebar: false
@@ -37,23 +38,24 @@ You can find the risk equalization app [here](http://www.risicoverevening.nl). J
 
 ## Solutions to the selection problem
 
-In the last part of this talk, we looked at the behavior and effects of the selection problem that we identified at the Dutch health insurance market.[^2] At the end of it, I referred to an article that I wrote about this subject in the so-called VGE Bulletin, a publication of the Dutch-Flemish Association for Health Economics (VGE). This article will be published about October 30th, 2023. As soon as this is the case, I will put the reference to the publication at this site.
+In the last part of this talk, we looked at the behavior and effects of the selection problem that we identified at the Dutch health insurance market.[^2] At the end of it, I referred to an article that I wrote about this subject in the so-called VGE Bulletin, a publication of the Dutch-Flemish Association for Health Economics (VGE). This article has not been published before this talk but is now available for you to read.[^3]
 
 [^2]: @hamstraRestrisicoVereveningsresultaatVan2022
+[^3]: @stamNegatieveEffectenVan2023
 
-This article contains a list of potential solutions worthy to investigate further. My current favorite is the latter potential solution. Noteworthy, is that this one has also been discussed in Switzerland, which is another health insurance market where a selection problem exists.
+This article contains a list of potential solutions worthy of further investigation. My current favorite is the potential solution mentioned last in this list. It is noteworthy that this one has also been discussed in Switzerland, which is another health insurance market where a selection problem exists. Check the article to find out which potential solution is my favorite.
 
 ## Food for thought
 
 The goal of risk equalization was explicitly described in detail in the Dutch Health Insurance Act (2006) about [here](https://zoek.officielebekendmakingen.nl/stb-2005-389.html#IDA5LXXB). It is interesting to read and may slightly differ from how it was described in my talk.
 
-Surprisingly, despite a long history of developing a very sophisticated risk equalization model, currently there is much discussion about the goal of risk equalization in the Netherlands. I co-authored an article with a summary of this debate in which we also propose a way out of this controversy.[^3]
+Surprisingly, despite a long history of developing a very sophisticated risk equalization model, currently there is much discussion about the goal of risk equalization in the Netherlands. I co-authored an article with a summary of this debate in which we also propose a way out of this controversy.[^4]
 
-[^3]: @vandevenGoalRiskEqualization2022
+[^4]: @vandevenGoalRiskEqualization2022
 
-Lastly, note that some people have high expectations about solving economic problems in health insurance and health care by risk equalization. To put these expectations into context, I authored an article (in Dutch) claiming that risk equalization is not a panacea.[^4]
+Lastly, note that some people have high expectations about solving economic problems in health insurance and health care by risk equalization. To put these expectations into context, I authored an article (in Dutch) claiming that risk equalization is not a panacea.[^5]
 
-[^4]: @stamRisicovereveningGeenPanacee2015
+[^5]: @stamRisicovereveningGeenPanacee2015
 
 All in all, given these debates, it is important to get a better understanding of risk equalization in order to be able to judge what's right and what's wrong. 
 
